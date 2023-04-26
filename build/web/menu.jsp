@@ -12,4 +12,5 @@
     <li><a href="portafolio.jsp">Portafolio</a></li>
     <li><a href="contacto.jsp">Contactos</a></li>
     <li><a href="historia.jsp">Historia</a></li>
+    <li><a href="preguntas.jsp">Preguntas Frecuantes</a></li>
 </ul>
